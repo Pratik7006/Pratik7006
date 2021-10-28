@@ -1,5 +1,5 @@
 <div align="center">
-<h6><img src="https://pratik7006.github.io/assets/img/pd_logo_black.jpg" height="200"/></h6>
+<h6><a href="https://pratik7006.github.io/"><img src="https://pratik7006.github.io/assets/img/pd_logo_black.jpg" height="200"/></a></h6>
   
 </div>
 
