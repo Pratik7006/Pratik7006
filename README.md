@@ -14,11 +14,11 @@
 
 ## 🤝 Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://in.linkedin.com/in/pratik7006)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratik_deshmane007)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/pratik7006?lang=en)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pratik.deshmane2)
-[<img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=Behance&logoColor=white">](https://www.behance.net/pratik7006)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://in.linkedin.com/in/pratik7006)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratik_deshmane007)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/pratik7006?lang=en)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pratik.deshmane2)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=Behance&logoColor=white">](https://www.behance.net/pratik7006)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCKSaglBU7NVOfgul39siNog)
 
 <!---
